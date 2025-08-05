@@ -1,0 +1,42 @@
+# Build and dependency folders
+/target/
+/build/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Maven wrapper
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# VS Code
+.vscode/
+# Build and dependency folders
+/target/
+/build/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Maven wrapper
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# VS Code
+.vscode/
